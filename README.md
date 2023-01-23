@@ -1,3 +1,5 @@
+![dogecoin-6298018_1920](https://user-images.githubusercontent.com/123225727/213968693-68cdeacd-24ed-42d9-8d3c-559a1bd2116e.png)
+
 Dogecoin has come a long way since it was first introduced in 2013 as a joke based on a popular internet meme. The digital currency, which was created by programmers Billy Markus and Jackson Palmer, was originally intended to be a fun and lighthearted alternative to other more serious cryptocurrencies like Bitcoin.
 
 However, despite its humorous beginnings, Dogecoin has gained a devoted following and has become a legitimate player in the world of cryptocurrency. As of 2024, Dogecoin has a market capitalization of over $10 billion, making it one of the most valuable digital currencies in the world.
